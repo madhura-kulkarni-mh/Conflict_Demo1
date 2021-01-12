@@ -1,6 +1,6 @@
 # Markdown
 
-markdown is a lightweight markup language for creating formatted text using a plain-text editor. 
+Markdown is a lightweight markup language for creating formatted text using a plain-text editor. 
 It was created by John Gruber and Aaron Swartz in 2004.
 
 ## What are the Advantages of Markdown??
