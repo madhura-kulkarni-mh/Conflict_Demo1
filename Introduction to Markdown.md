@@ -1,12 +1,12 @@
 # Markdown
 
-Markdown is a lightweight markup language for creating formatted text using a plain-text editor. 
+Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
 It was created by John Gruber and Aaron Swartz in 2004.
 
 ## What are the Advantages of Markdown??
 
 Few of the advantages of Markdown are listed below.
-1. It is Simpleyyy
+1. It is Simple
 2. It is easy
 3. It can convert to HTML easily???
 
